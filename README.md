@@ -29,8 +29,7 @@ A C# Web API application built with .NET 10 that implements an enhanced, custom 
    ```
 3. Once the terminal displays `Now listening on: http://localhost:5000`, open your web browser and navigate to the interactive testing playground:
    ```text
-   http://localhost:5000/swagger
-   ```
+   http://localhost:5043/swagger
 
 ## How to Execute the Unit Tests
 To run the automated xUnit suite and verify behavioral code coverage, execute the following command in your terminal:
