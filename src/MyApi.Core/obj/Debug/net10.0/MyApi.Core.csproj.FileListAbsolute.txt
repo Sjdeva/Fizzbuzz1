@@ -1,0 +1,11 @@
+D:\Fizzbuzz1\src\MyApi.Core\bin\Debug\net10.0\MyApi.Core.deps.json
+D:\Fizzbuzz1\src\MyApi.Core\bin\Debug\net10.0\MyApi.Core.dll
+D:\Fizzbuzz1\src\MyApi.Core\bin\Debug\net10.0\MyApi.Core.pdb
+D:\Fizzbuzz1\src\MyApi.Core\obj\Debug\net10.0\MyApi.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fizzbuzz1\src\MyApi.Core\obj\Debug\net10.0\MyApi.Core.AssemblyInfoInputs.cache
+D:\Fizzbuzz1\src\MyApi.Core\obj\Debug\net10.0\MyApi.Core.AssemblyInfo.cs
+D:\Fizzbuzz1\src\MyApi.Core\obj\Debug\net10.0\MyApi.Core.csproj.CoreCompileInputs.cache
+D:\Fizzbuzz1\src\MyApi.Core\obj\Debug\net10.0\MyApi.Core.dll
+D:\Fizzbuzz1\src\MyApi.Core\obj\Debug\net10.0\refint\MyApi.Core.dll
+D:\Fizzbuzz1\src\MyApi.Core\obj\Debug\net10.0\MyApi.Core.pdb
+D:\Fizzbuzz1\src\MyApi.Core\obj\Debug\net10.0\ref\MyApi.Core.dll
