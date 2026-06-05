@@ -27,7 +27,7 @@ A C# Web API application built with .NET 10 that implements an enhanced, custom 
    ```bash
    dotnet run --project FizzBuzzApi.csproj
    ```
-3. Once the terminal displays `Now listening on: http://localhost:5000`, open your web browser and navigate to the interactive testing playground:
+3. Once the terminal displays `Now listening on: http://localhost:5043`, open your web browser and navigate to the interactive testing playground:
    ```text
    http://localhost:5043/swagger
 
