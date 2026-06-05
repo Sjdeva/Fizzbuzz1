@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Fizzbuzz1\\tests\\MyApi.Tests\\MyApi.Tests.csproj": {}
+    "d:\\Fizzbuzz1\\tests\\MyApi.Tests\\MyApi.Tests.csproj": {}
   },
   "projects": {
-    "D:\\Fizzbuzz1\\src\\MyApi.Core\\MyApi.Core.csproj": {
+    "d:\\Fizzbuzz1\\src\\MyApi.Core\\MyApi.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Fizzbuzz1\\src\\MyApi.Core\\MyApi.Core.csproj",
+        "projectUniqueName": "d:\\Fizzbuzz1\\src\\MyApi.Core\\MyApi.Core.csproj",
         "projectName": "MyApi.Core",
-        "projectPath": "D:\\Fizzbuzz1\\src\\MyApi.Core\\MyApi.Core.csproj",
+        "projectPath": "d:\\Fizzbuzz1\\src\\MyApi.Core\\MyApi.Core.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\Fizzbuzz1\\src\\MyApi.Core\\obj\\",
+        "outputPath": "d:\\Fizzbuzz1\\src\\MyApi.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -362,8 +362,8 @@
             "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {
-              "D:\\Fizzbuzz1\\src\\MyApi.Core\\MyApi.Core.csproj": {
-                "projectPath": "D:\\Fizzbuzz1\\src\\MyApi.Core\\MyApi.Core.csproj"
+              "d:\\Fizzbuzz1\\src\\MyApi.Core\\MyApi.Core.csproj": {
+                "projectPath": "d:\\Fizzbuzz1\\src\\MyApi.Core\\MyApi.Core.csproj"
               }
             }
           }
@@ -388,6 +388,10 @@
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[10.0.8, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[10.2.1, )"
             }
           },
           "imports": [
@@ -827,14 +831,14 @@
         }
       }
     },
-    "D:\\Fizzbuzz1\\tests\\MyApi.Tests\\MyApi.Tests.csproj": {
+    "d:\\Fizzbuzz1\\tests\\MyApi.Tests\\MyApi.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Fizzbuzz1\\tests\\MyApi.Tests\\MyApi.Tests.csproj",
+        "projectUniqueName": "d:\\Fizzbuzz1\\tests\\MyApi.Tests\\MyApi.Tests.csproj",
         "projectName": "MyApi.Tests",
-        "projectPath": "D:\\Fizzbuzz1\\tests\\MyApi.Tests\\MyApi.Tests.csproj",
+        "projectPath": "d:\\Fizzbuzz1\\tests\\MyApi.Tests\\MyApi.Tests.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\Fizzbuzz1\\tests\\MyApi.Tests\\obj\\",
+        "outputPath": "d:\\Fizzbuzz1\\tests\\MyApi.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -850,8 +854,8 @@
             "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {
-              "D:\\Fizzbuzz1\\src\\MyApi.Core\\MyApi.Core.csproj": {
-                "projectPath": "D:\\Fizzbuzz1\\src\\MyApi.Core\\MyApi.Core.csproj"
+              "d:\\Fizzbuzz1\\src\\MyApi.Core\\MyApi.Core.csproj": {
+                "projectPath": "d:\\Fizzbuzz1\\src\\MyApi.Core\\MyApi.Core.csproj"
               },
               "D:\\Fizzbuzz1\\src\\MyApi.WebApi\\MyApi.WebApi.csproj": {
                 "projectPath": "D:\\Fizzbuzz1\\src\\MyApi.WebApi\\MyApi.WebApi.csproj"

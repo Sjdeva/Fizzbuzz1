@@ -36,3 +36,4 @@ D:\Fizzbuzz1\src\MyApi.WebApi\obj\Debug\net10.0\refint\MyApi.WebApi.dll
 D:\Fizzbuzz1\src\MyApi.WebApi\obj\Debug\net10.0\MyApi.WebApi.pdb
 D:\Fizzbuzz1\src\MyApi.WebApi\obj\Debug\net10.0\MyApi.WebApi.genruntimeconfig.cache
 D:\Fizzbuzz1\src\MyApi.WebApi\obj\Debug\net10.0\ref\MyApi.WebApi.dll
+D:\Fizzbuzz1\src\MyApi.WebApi\obj\Debug\net10.0\MyApi.WebApi.sourcelink.json

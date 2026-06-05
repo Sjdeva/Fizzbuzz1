@@ -539,8 +539,8 @@
           "framework": "net10.0",
           "targetAlias": "net10.0",
           "projectReferences": {
-            "D:\\Fizzbuzz1\\src\\MyApi.Core\\MyApi.Core.csproj": {
-              "projectPath": "D:\\Fizzbuzz1\\src\\MyApi.Core\\MyApi.Core.csproj"
+            "d:\\Fizzbuzz1\\src\\MyApi.Core\\MyApi.Core.csproj": {
+              "projectPath": "d:\\Fizzbuzz1\\src\\MyApi.Core\\MyApi.Core.csproj"
             }
           }
         }

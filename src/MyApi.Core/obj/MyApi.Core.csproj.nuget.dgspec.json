@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Fizzbuzz1\\src\\MyApi.Core\\MyApi.Core.csproj": {}
+    "d:\\Fizzbuzz1\\src\\MyApi.Core\\MyApi.Core.csproj": {}
   },
   "projects": {
-    "D:\\Fizzbuzz1\\src\\MyApi.Core\\MyApi.Core.csproj": {
+    "d:\\Fizzbuzz1\\src\\MyApi.Core\\MyApi.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Fizzbuzz1\\src\\MyApi.Core\\MyApi.Core.csproj",
+        "projectUniqueName": "d:\\Fizzbuzz1\\src\\MyApi.Core\\MyApi.Core.csproj",
         "projectName": "MyApi.Core",
-        "projectPath": "D:\\Fizzbuzz1\\src\\MyApi.Core\\MyApi.Core.csproj",
+        "projectPath": "d:\\Fizzbuzz1\\src\\MyApi.Core\\MyApi.Core.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\Fizzbuzz1\\src\\MyApi.Core\\obj\\",
+        "outputPath": "d:\\Fizzbuzz1\\src\\MyApi.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
